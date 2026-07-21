@@ -1,0 +1,32 @@
+{
+  "repoId": "repo-fb0d911018db424f",
+  "repoUrl": "https://github.com/Aluro7in/MiroFish.git",
+  "name": "mirofish",
+  "stack": [
+    "Node.js"
+  ],
+  "language": "javascript",
+  "toolchain": {
+    "kind": "node",
+    "packageManager": "npm",
+    "testFramework": null,
+    "testCommand": null
+  },
+  "capabilities": {
+    "analyzer": "node-ts",
+    "missionRunner": true,
+    "supportedMissions": [
+      "Generate tests for controllers/routes.",
+      "Add structured logging middleware to all routes."
+    ]
+  },
+  "packageManager": "npm",
+  "mainFiles": [],
+  "controllers": [],
+  "routes": [
+    "frontend/src/router/index.js"
+  ],
+  "tests": [],
+  "testFramework": null,
+  "testCommand": null
+}
